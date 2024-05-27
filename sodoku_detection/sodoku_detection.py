@@ -1,5 +1,4 @@
 import cv2
-import matplotlib.pyplot as plt
 import argparse
 
 def sodoku_detection(img_path):
