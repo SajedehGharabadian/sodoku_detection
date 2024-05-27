@@ -6,7 +6,7 @@ def preinstall():
     return text
 
 
-setup(name="sodoku_detection",version="1.0.0",
+setup(name="sodoku_detection",version="1.0.1",
       author="Sajedeh Gharabadiyan",
       description="first package for test",
       requires=[],
