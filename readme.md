@@ -22,4 +22,3 @@ from sodoku_detection import sodoku_detection
 
 sodoku_detection.sodoku_detection("sudoku2.jpg")
 ```
-
