@@ -11,7 +11,17 @@
 
 ## Installation
 
-'''
+```
 pip install sodoku-detection
-'''
+```
+
+## How to use 
+
+◻️ Python environments
+
+```
+from sodoku_detection import sodoku_detection
+
+sodoku_detection.sodoku_detection("/content/sudoku2.jpg")
+```
 
