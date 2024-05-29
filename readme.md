@@ -2,8 +2,9 @@
 
 ◻️ Input 
 
+![input](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/881a8ed5-b6c5-4d4c-98c3-c0038ff793bd)
 
-<img src="![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/6fe35c7b-bf67-465b-9ec9-51d40e166641)" width=50%>
+
 
 ◻️ Output
 
