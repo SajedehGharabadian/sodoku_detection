@@ -3,7 +3,7 @@
 ◻️ Input 
 
 
-![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/6fe35c7b-bf67-465b-9ec9-51d40e166641)
+<img src="![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/6fe35c7b-bf67-465b-9ec9-51d40e166641)" width="48">
 
 ◻️ Output
 
