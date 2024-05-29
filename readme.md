@@ -2,7 +2,7 @@
 
 ◻️ Input 
 
-![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/2b17d82a-cd5c-48bd-bb5e-79a648fe52f4)
+(https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/2b17d82a-cd5c-48bd-bb5e-79a648fe52f4)
 
 
 ◻️ Output
