@@ -2,11 +2,9 @@
 
 ◻️ Input 
 
-(https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/2b17d82a-cd5c-48bd-bb5e-79a648fe52f4)
 
+![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/6fe35c7b-bf67-465b-9ec9-51d40e166641)
 
 ◻️ Output
 
-![result](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/a4faa492-1249-4ba9-b9fc-9fce552b364a)
-
-
+![result](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/6a2b116c-bcdc-46d5-a074-c556a31be80a)
