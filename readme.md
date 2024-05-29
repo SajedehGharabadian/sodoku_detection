@@ -2,9 +2,9 @@
 
 ◻️ Input 
 
-https://github.com/SajedehGharabadian/sodoku_detection/blob/main/sodoku_detection/sudoku1.jpg
+![sudoku1](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/2b17d82a-cd5c-48bd-bb5e-79a648fe52f4)
 
 
 ◻️ Output
 
-https://github.com/SajedehGharabadian/sodoku_detection/blob/main/sodoku_detection/result.jpg
+![result](https://github.com/SajedehGharabadian/sodoku_detection/assets/76538787/a4faa492-1249-4ba9-b9fc-9fce552b364a)
